@@ -1,4 +1,4 @@
 x="Hello World"
 print(x)
-y="welcome to github"
-print(y)
+z="welcome to github"
+print(z)
